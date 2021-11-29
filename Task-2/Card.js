@@ -32,7 +32,7 @@ function Card() {
     <div className="Card">
       <header>
         <a href="#" class="logo">
-          LE DSIR
+          TeaSeaYes
         </a>
 
         <nav class="navbar">
