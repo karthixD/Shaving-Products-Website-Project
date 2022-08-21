@@ -1,1 +1,1 @@
-# LGMVIP-WebDev-main
+Shaving Products Project
